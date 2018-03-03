@@ -1,0 +1,19 @@
+{
+  "name": "react-blog",
+  "version": "1.0.0",
+  "description": "A simple blog application built with javascript frameworks and libraries",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codestaintin/react-blog.git"
+  },
+  "author": "Isioye Mohammed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codestaintin/react-blog/issues"
+  },
+  "homepage": "https://github.com/codestaintin/react-blog#readme"
+}
